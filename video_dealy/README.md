@@ -5,4 +5,4 @@
 主要使用`videoWriter("name.avi",编码器,帧率,保存图像大小)`将帧保存为视频，延迟功能使用`time.sleep(seconds)`函数
 
 ![](http://ww1.sinaimg.cn/large/006YKa8tly1g4skm1oa9tg30ot0dce88.gif)
-
+![](http://ww1.sinaimg.cn/large/006YKa8tly1g4skouwf7lg30ot0dce88.gif)
